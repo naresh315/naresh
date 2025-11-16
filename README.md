@@ -1,11 +1,11 @@
 
-# 👋 Hello, I'm [Your Full Name]!
+# 👋 Hello, I'm  Shlok Naresh Bhabat!
 
 ## 🚀 About Me
 
-I am a passionate [Your Primary Role, e.g., Full-Stack Developer, Data Scientist, UX Designer] with a focus on [Key Areas of Interest, e.g., scalable cloud infrastructure and clean code].
+I am a passionate  about excersize at home,playing soccer,drawing mobile designs,writting essays and many more extracurricular activities.
 
-Currently, I am working on [Briefly mention your current major project or learning focus].
+Currently, I am working on to learn python and basket ball game.I am a good swimmer by the way!
 
 ---
 
